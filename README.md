@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on personal private repositories
-- 🌱 I’m currently learning C#
-- 🤔 I’m looking for help with SQL & C# 
+- 🌱 I’m currently learning Python formerly C#
+- 🤔 I’m looking for help with Python
+* I'm mostly okay at SQLite
 - ⚡ Fun fact: Cardoon
 
